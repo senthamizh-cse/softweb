@@ -33,7 +33,7 @@ Publish the website in the given URL.
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title> ROLEX</title>
+        <title>TCS</title>
         <style type="text/css">
             * {
                 margin: 0;
@@ -180,7 +180,7 @@ Publish the website in the given URL.
     <div class="banner">
         <br>
         <div class="navbar">
-            <h1 class="logo">Rolex</h1>
+            <h1 class="logo"></h1>
             <ul>
                 <li><a href="http://127.0.0.1:8000/static/home.html"> Home </a></li>
                 <li><a href="http://127.0.0.1:8000/static/product.html"> Products </a></li>
@@ -194,11 +194,10 @@ Publish the website in the given URL.
         </div>
         <div class="content">
             <div class="text">
-                <h2> Rolex @ Watches</h2>
+                <h2> TCS</h2>
                 <br>
-                <p> Established in 1905
-                    —
-                    With its latest creations, Rolex brings a fresh look to some of its most iconic models </p>
+                <p>TCS, a global leader in IT services, consulting, and business solutions, 
+                    leverages technology for business transformation and helps catalyze change. </p>
                 <br>
                 <div>
                     <a href="#" class="login"> Log In </a>
@@ -337,7 +336,7 @@ Publish the website in the given URL.
     <div class="banner">
         <br>
         <div class="navbar">
-            <h1 class="logo">Rolex</h1>
+            <h1 class="logo">TCS</h1>
             <ul>
                 <li><a href="http://127.0.0.1:8000/static/home.html"> Home </a></li>
                 <li><a href="http://127.0.0.1:8000/static/product.html"> Products </a></li>
@@ -566,7 +565,7 @@ Publish the website in the given URL.
     <div class="banner">
         <br>
         <div class="navbar">
-            <h1 class="logo">Rolex</h1>
+            <h1 class="logo">TCS</h1>
             <ul>
                 <li><a href="http://127.0.0.1:8000/static/home.html"> Home </a></li>
                 <li><a href="http://127.0.0.1:8000/static/product.html"> Products </a></li>
@@ -741,7 +740,7 @@ Publish the website in the given URL.
     <div class="banner">
         <br>
         <div class="navbar">
-            <h1 class="logo">Rolex</h1>
+            <h1 class="logo">TCS</h1>
             <ul>
                 <li><a href="http://127.0.0.1:8000/static/home.html"> Home </a></li>
                 <li><a href="http://127.0.0.1:8000/static/products.html" class="bg-product"> Products </a></li>
@@ -758,18 +757,18 @@ Publish the website in the given URL.
                 <div class="image">
                     <table cellspacing="20"> 
                         <tr align="center">
-                            <td> <img src="1908.jpeg" width="360" height="360"> </td>
-                            <td> <img src="digital stainless.jpeg"width="360" height="360"></td>
-                            <td> <img src="rolex anniversary.jpeg"width="360" height="360"> </td>
-                            <td> <img src="Rolex Datejust.jpeg"width="360" height="360"> </td>
-                            <td> <img src="golden satinless.jpeg"width="360" height="360"> </td>
+                            <td> <img src="bancs.png" width="360" height="360"> </td>
+                            <td> <img src="hobs.jpg"width="360" height="360"></td>
+                            <td> <img src="chroma.png"width="360" height="360"> </td>
+                            <td> <img src="BFSI.jpg"width="360" height="360"> </td>
+                            <td> <img src="ion ERP.png"width="360" height="360"> </td>
                         </tr>
                         <tr align="center">
-                            <th> 1908</th>
-                            <th> DIGITAL STAINLESS</th>
-                            <th> ROLEX ANNIVERSARY </th>
-                            <th> ROLEX DATEJUST </th>
-                            <th> GOLDEN STAINLESS </th>
+                            <th> TCS BanCS</th>
+                            <th> TCS HOBS</th>
+                            <th> TCS CHROMA</th>
+                            <th> TCS BFSI</th>
+                            <th> TCS ion ERP</th>
                         </tr>
                         
                     </table>
@@ -789,14 +788,14 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
+
 ```
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-05 231447.png>)
-![alt text](<Screenshot 2024-05-05 230946.png>)
-![alt text](<Screenshot 2024-05-05 231107.png>)
-![alt text](<Screenshot 2024-05-05 231332.png>)
-
+![alt text](<Screenshot 2024-05-07 134137.png>)
+![alt text](<Screenshot 2024-05-07 134207.png>)
+![alt text](<Screenshot 2024-05-07 134219.png>)
+![alt text](<Screenshot 2024-05-07 134245.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
